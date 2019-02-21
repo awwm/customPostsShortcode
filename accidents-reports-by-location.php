@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Accident Reports by Location
-Plugin URI: http://ideations4.com/
+Plugin URI: https://www.freelancer.com/u/wahab1983pk
 Description: This plugin provides a shortcode to list accident reports by location, with parameters.
 Version: 1.0
-Author: Rachel Ideations4.com
-Author URI: http://ideations4.com/
+Author: Abdul Wahab
+Author URI: https://www.linkedin.com/in/abdulwahabpk/
 License: GPLv2
 */
 // 
